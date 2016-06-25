@@ -1,2 +1,3 @@
 0326. 🚀 perf: cache repeated calculations
 0720. ✨ feat: add export to CSV option
+0195. 📚 docs: clarify environment setup
