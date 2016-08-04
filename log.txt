@@ -9,3 +9,4 @@
 0105. 🐛 fix: correct typo in registration form
 0771. 🚀 perf: cache repeated calculations
 0678. ✨ feat: add user authentication
+0219. ✅ test: increase coverage on auth module
