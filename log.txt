@@ -10,3 +10,4 @@
 0771. 🚀 perf: cache repeated calculations
 0678. ✨ feat: add user authentication
 0219. ✅ test: increase coverage on auth module
+0161. ✨ feat: create admin dashboard
