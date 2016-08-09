@@ -15,3 +15,4 @@
 0793. 📚 docs: clarify environment setup
 0091. ✨ feat: add user authentication
 0160. ♻️ chore: bump dependencies
+0315. ✅ test: add integration test for /submit endpoint
