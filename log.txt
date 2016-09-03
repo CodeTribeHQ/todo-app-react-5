@@ -23,3 +23,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0860. 🔧 refactor: organize models into subfolders
 0084. 🐛 fix: handle 500 error in quiz API
+0150. 🎨 style: remove trailing whitespace
