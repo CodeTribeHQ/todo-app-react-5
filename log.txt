@@ -14,3 +14,4 @@
 0409. 🚀 perf: lazy-load components
 0759. 🔧 refactor: organize models into subfolders
 0899. 🚀 perf: cache repeated calculations
+0078. ♻️ chore: update .gitignore
