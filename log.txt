@@ -16,3 +16,4 @@
 0899. 🚀 perf: cache repeated calculations
 0078. ♻️ chore: update .gitignore
 0842. 🎨 style: remove trailing whitespace
+0753. 🔧 refactor: remove redundant code blocks
