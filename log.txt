@@ -18,3 +18,4 @@
 0842. 🎨 style: remove trailing whitespace
 0753. 🔧 refactor: remove redundant code blocks
 0632. 🎨 style: remove trailing whitespace
+0439. 🐛 fix: correct typo in registration form
