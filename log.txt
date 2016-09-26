@@ -32,3 +32,4 @@
 0093. ✅ test: add unit test for quiz service
 0042. 📚 docs: document token refresh logic
 0503. ♻️ chore: rename env.example
+0176. 🔧 refactor: remove redundant code blocks
