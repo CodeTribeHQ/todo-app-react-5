@@ -41,3 +41,4 @@
 0528. ♻️ chore: clean up unused files
 0768. 🎨 style: remove trailing whitespace
 0084. 🐛 fix: handle 500 error in quiz API
+0505. ♻️ chore: add GitHub actions badge
