@@ -50,3 +50,4 @@
 0929. ✨ feat: support email verification
 0005. ✅ test: add unit test for quiz service
 0852. ✨ feat: enable dark mode toggle
+0010. ✨ feat: add user authentication
