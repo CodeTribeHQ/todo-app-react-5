@@ -52,3 +52,4 @@
 0852. ✨ feat: enable dark mode toggle
 0010. ✨ feat: add user authentication
 0597. 🚀 perf: cache repeated calculations
+0426. ✅ test: add integration test for /submit endpoint
