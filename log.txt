@@ -57,3 +57,4 @@
 0879. 🎨 style: standardize quote style
 0528. ♻️ chore: clean up unused files
 0472. 🐛 fix: fix null pointer exception on login
+0657. 🎨 style: standardize quote style
