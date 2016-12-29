@@ -48,3 +48,4 @@
 0908. ♻️ chore: bump dependencies
 0974. ✨ feat: add export to CSV option
 0711. 🐛 fix: fix broken CSS in mobile view
+0940. 📚 docs: document token refresh logic
