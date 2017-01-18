@@ -56,3 +56,4 @@
 0681. ✨ feat: create admin dashboard
 0999. 🔧 refactor: split large controller into smaller functions
 0742. 📚 docs: clarify environment setup
+0801. ✨ feat: enable dark mode toggle
