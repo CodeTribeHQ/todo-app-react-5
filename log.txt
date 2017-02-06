@@ -62,3 +62,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0732. ♻️ chore: add GitHub actions badge
 0987. ✨ feat: create admin dashboard
+0793. 📚 docs: clarify environment setup
