@@ -65,3 +65,4 @@
 0382. 📚 docs: improve code comments in utils
 0797. 📚 docs: add API usage examples
 0686. 🎨 style: standardize quote style
+0232. 🎨 style: apply consistent indentation
