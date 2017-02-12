@@ -67,3 +67,4 @@
 0686. 🎨 style: standardize quote style
 0232. 🎨 style: apply consistent indentation
 0231. 🔧 refactor: clean up auth middleware
+1000. ✅ test: increase coverage on auth module
