@@ -66,3 +66,4 @@
 0797. 📚 docs: add API usage examples
 0686. 🎨 style: standardize quote style
 0232. 🎨 style: apply consistent indentation
+0231. 🔧 refactor: clean up auth middleware
