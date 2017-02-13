@@ -64,3 +64,4 @@
 0987. ✨ feat: create admin dashboard
 0793. 📚 docs: clarify environment setup
 0191. 🔧 refactor: refactor quiz grading logic
+0989. 📚 docs: write FAQ section
