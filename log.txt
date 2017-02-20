@@ -69,3 +69,4 @@
 0231. 🔧 refactor: clean up auth middleware
 1000. ✅ test: increase coverage on auth module
 0851. ✅ test: mock database connection in test suite
+0107. 🐛 fix: prevent crash on empty input
