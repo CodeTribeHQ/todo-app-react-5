@@ -74,3 +74,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0533. ♻️ chore: add GitHub actions badge
 0818. 🔧 refactor: remove redundant code blocks
+0207. 🐛 fix: prevent crash on empty input
