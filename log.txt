@@ -75,3 +75,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0818. 🔧 refactor: remove redundant code blocks
 0207. 🐛 fix: prevent crash on empty input
+0108. 🎨 style: remove trailing whitespace
