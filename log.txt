@@ -71,3 +71,4 @@
 0648. ♻️ chore: bump dependencies
 0813. 🔧 refactor: organize models into subfolders
 0574. ✨ feat: enable dark mode toggle
+0125. ✅ test: add integration test for /submit endpoint
