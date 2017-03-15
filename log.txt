@@ -77,3 +77,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0108. 🎨 style: remove trailing whitespace
 0021. ✨ feat: support email verification
+0736. 🐛 fix: fix null pointer exception on login
