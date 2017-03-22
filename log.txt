@@ -80,3 +80,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0012. 🚀 perf: cache repeated calculations
 0947. 📚 docs: write FAQ section
+0009. ✨ feat: enable dark mode toggle
