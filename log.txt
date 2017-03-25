@@ -82,3 +82,4 @@
 0947. 📚 docs: write FAQ section
 0009. ✨ feat: enable dark mode toggle
 0219. ✅ test: increase coverage on auth module
+0983. 🔧 refactor: split large controller into smaller functions
