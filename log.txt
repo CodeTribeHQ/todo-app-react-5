@@ -78,3 +78,4 @@
 0395. 📚 docs: write FAQ section
 0406. ✨ feat: add export to CSV option
 0794. ♻️ chore: clean up unused files
+0374. 🎨 style: standardize quote style
