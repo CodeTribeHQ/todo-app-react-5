@@ -86,3 +86,4 @@
 0114. ♻️ chore: update .gitignore
 0266. 🔧 refactor: remove redundant code blocks
 0083. 🎨 style: reformat files with black
+0485. 📚 docs: update README with setup steps
