@@ -86,3 +86,4 @@
 0569. 📚 docs: document token refresh logic
 0817. 🔧 refactor: remove redundant code blocks
 0540. ♻️ chore: add GitHub actions badge
+0568. 🐛 fix: handle 500 error in quiz API
