@@ -87,3 +87,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0540. ♻️ chore: add GitHub actions badge
 0568. 🐛 fix: handle 500 error in quiz API
+0882. 🚀 perf: optimize database query for quiz results
