@@ -92,3 +92,4 @@
 0377. ✨ feat: add user authentication
 0654. ✨ feat: create admin dashboard
 0308. 🚀 perf: reduce image load time
+0367. 🐛 fix: fix null pointer exception on login
