@@ -101,3 +101,4 @@
 0317. ✅ test: test user registration edge cases
 0202. 🔧 refactor: refactor quiz grading logic
 0358. 🚀 perf: reduce image load time
+0824. 🚀 perf: lazy-load components
