@@ -101,3 +101,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0869. ♻️ chore: bump dependencies
 0615. 🐛 fix: correct typo in registration form
+0394. 🚀 perf: lazy-load components
