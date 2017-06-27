@@ -105,3 +105,4 @@
 0449. ✅ test: add unit test for quiz service
 0633. ✨ feat: add user authentication
 0489. 🔧 refactor: organize models into subfolders
+0159. 🚀 perf: lazy-load components
