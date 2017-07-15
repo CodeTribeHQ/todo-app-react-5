@@ -111,3 +111,4 @@
 0346. ✅ test: mock database connection in test suite
 0978. 🐛 fix: prevent crash on empty input
 0688. 🚀 perf: reduce image load time
+0307. ✨ feat: support email verification
