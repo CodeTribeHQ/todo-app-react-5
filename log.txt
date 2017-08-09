@@ -125,3 +125,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0276. ✅ test: add integration test for /submit endpoint
 0713. 🐛 fix: handle 500 error in quiz API
+0081. 🐛 fix: fix null pointer exception on login
