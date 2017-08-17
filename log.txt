@@ -118,3 +118,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0712. 🎨 style: apply consistent indentation
 0090. ✅ test: increase coverage on auth module
+0627. 📚 docs: document token refresh logic
