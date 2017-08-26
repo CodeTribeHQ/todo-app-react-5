@@ -120,3 +120,4 @@
 0090. ✅ test: increase coverage on auth module
 0627. 📚 docs: document token refresh logic
 0548. 📚 docs: write FAQ section
+0373. 📚 docs: document token refresh logic
