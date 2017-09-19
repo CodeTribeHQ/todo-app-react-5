@@ -124,3 +124,4 @@
 0846. ✨ feat: implement quiz timer feature
 0490. ✨ feat: create admin dashboard
 0623. 🎨 style: standardize quote style
+0949. 📚 docs: write FAQ section
