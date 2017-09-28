@@ -134,3 +134,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0390. 🎨 style: standardize quote style
 0173. 🚀 perf: cache repeated calculations
+0477. 🐛 fix: fix broken CSS in mobile view
