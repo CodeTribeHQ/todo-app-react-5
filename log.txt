@@ -135,3 +135,4 @@
 0360. ✨ feat: add export to CSV option
 0059. ♻️ chore: bump dependencies
 0900. 🐛 fix: handle 500 error in quiz API
+0067. 🔧 refactor: remove redundant code blocks
