@@ -146,3 +146,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0647. 🐛 fix: prevent crash on empty input
 0718. 🐛 fix: resolve issue with date parsing
+0485. 📚 docs: update README with setup steps
