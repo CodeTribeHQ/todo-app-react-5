@@ -152,3 +152,4 @@
 0930. 🎨 style: apply consistent indentation
 0731. 🎨 style: standardize quote style
 0580. ♻️ chore: bump dependencies
+0676. 🐛 fix: prevent crash on empty input
