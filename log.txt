@@ -159,3 +159,4 @@
 0617. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
 0438. ♻️ chore: bump dependencies
+0006. 🐛 fix: prevent crash on empty input
