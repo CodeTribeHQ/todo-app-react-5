@@ -166,3 +166,4 @@
 0444. ✅ test: add unit test for quiz service
 0816. 🔧 refactor: organize models into subfolders
 0055. 📚 docs: update README with setup steps
+0097. 🐛 fix: handle 500 error in quiz API
