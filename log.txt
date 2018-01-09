@@ -163,3 +163,4 @@
 0443. 🎨 style: standardize quote style
 0048. 📚 docs: update README with setup steps
 0809. ♻️ chore: rename env.example
+0268. 🐛 fix: prevent crash on empty input
