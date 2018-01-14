@@ -164,3 +164,4 @@
 0048. 📚 docs: update README with setup steps
 0809. ♻️ chore: rename env.example
 0268. 🐛 fix: prevent crash on empty input
+0542. 🔧 refactor: organize models into subfolders
