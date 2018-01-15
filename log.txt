@@ -165,3 +165,4 @@
 0809. ♻️ chore: rename env.example
 0268. 🐛 fix: prevent crash on empty input
 0542. 🔧 refactor: organize models into subfolders
+0301. 🎨 style: apply consistent indentation
