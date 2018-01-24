@@ -170,3 +170,4 @@
 0253. 📚 docs: update README with setup steps
 0346. ✅ test: mock database connection in test suite
 0721. 🚀 perf: optimize database query for quiz results
+0650. ✅ test: add unit test for quiz service
