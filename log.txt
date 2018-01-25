@@ -171,3 +171,4 @@
 0346. ✅ test: mock database connection in test suite
 0721. 🚀 perf: optimize database query for quiz results
 0650. ✅ test: add unit test for quiz service
+0281. ✨ feat: support email verification
