@@ -173,3 +173,4 @@
 0650. ✅ test: add unit test for quiz service
 0281. ✨ feat: support email verification
 0027. 📚 docs: clarify environment setup
+0768. 🎨 style: remove trailing whitespace
