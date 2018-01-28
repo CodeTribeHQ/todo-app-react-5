@@ -174,3 +174,4 @@
 0281. ✨ feat: support email verification
 0027. 📚 docs: clarify environment setup
 0768. 🎨 style: remove trailing whitespace
+0953. 🎨 style: remove trailing whitespace
