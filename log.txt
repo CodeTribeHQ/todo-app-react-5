@@ -176,3 +176,4 @@
 0768. 🎨 style: remove trailing whitespace
 0953. 🎨 style: remove trailing whitespace
 0664. ✅ test: add unit test for quiz service
+0894. ✅ test: add integration test for /submit endpoint
