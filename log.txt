@@ -175,3 +175,4 @@
 0938. 🎨 style: rename variables for clarity
 0593. 🐛 fix: correct typo in registration form
 0430. 🐛 fix: fix null pointer exception on login
+0522. 🐛 fix: handle 500 error in quiz API
