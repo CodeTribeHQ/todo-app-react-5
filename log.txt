@@ -191,3 +191,4 @@
 0044. ✅ test: add unit test for quiz service
 0610. 🚀 perf: lazy-load components
 0323. 📚 docs: clarify environment setup
+0855. 🎨 style: reformat files with black
