@@ -201,3 +201,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0615. 🐛 fix: correct typo in registration form
 0734. ✨ feat: add export to CSV option
+0679. ♻️ chore: bump dependencies
