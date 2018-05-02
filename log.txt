@@ -189,3 +189,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0976. ✨ feat: implement quiz timer feature
 0967. ♻️ chore: add GitHub actions badge
+0451. ✨ feat: support email verification
