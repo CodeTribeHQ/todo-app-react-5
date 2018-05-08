@@ -204,3 +204,4 @@
 0679. ♻️ chore: bump dependencies
 0446. 🎨 style: apply consistent indentation
 0631. ✨ feat: create admin dashboard
+0339. 📚 docs: update README with setup steps
