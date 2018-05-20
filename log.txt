@@ -191,3 +191,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0451. ✨ feat: support email verification
 0792. 🎨 style: standardize quote style
+0141. 📚 docs: document token refresh logic
