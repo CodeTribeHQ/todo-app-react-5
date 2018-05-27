@@ -192,3 +192,4 @@
 0451. ✨ feat: support email verification
 0792. 🎨 style: standardize quote style
 0141. 📚 docs: document token refresh logic
+0770. ♻️ chore: rename env.example
