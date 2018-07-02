@@ -206,3 +206,4 @@
 0143. ✨ feat: implement quiz timer feature
 0124. 🎨 style: reformat files with black
 0997. ✅ test: increase coverage on auth module
+0693. 📚 docs: add API usage examples
