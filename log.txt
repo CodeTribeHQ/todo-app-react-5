@@ -217,3 +217,4 @@
 0612. ✅ test: test user registration edge cases
 0509. ♻️ chore: bump dependencies
 0381. ♻️ chore: clean up unused files
+0099. 🚀 perf: reduce image load time
