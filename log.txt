@@ -221,3 +221,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0908. ♻️ chore: bump dependencies
 0244. ✨ feat: add export to CSV option
+0655. 🚀 perf: cache repeated calculations
