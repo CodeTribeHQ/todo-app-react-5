@@ -213,3 +213,4 @@
 0117. ✅ test: increase coverage on auth module
 0712. 🎨 style: apply consistent indentation
 0870. ♻️ chore: clean up unused files
+0207. 🐛 fix: prevent crash on empty input
