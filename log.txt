@@ -226,3 +226,4 @@
 0002. 🚀 perf: cache repeated calculations
 0750. 🎨 style: apply consistent indentation
 0338. ♻️ chore: add GitHub actions badge
+0564. 📚 docs: clarify environment setup
