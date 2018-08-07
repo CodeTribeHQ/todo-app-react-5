@@ -215,3 +215,4 @@
 0870. ♻️ chore: clean up unused files
 0207. 🐛 fix: prevent crash on empty input
 0080. ✨ feat: support email verification
+0401. 🚀 perf: reduce image load time
