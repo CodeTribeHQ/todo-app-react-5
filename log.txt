@@ -233,3 +233,4 @@
 0831. 📚 docs: clarify environment setup
 0853. 🔧 refactor: refactor quiz grading logic
 0960. ✅ test: increase coverage on auth module
+0437. 📚 docs: clarify environment setup
