@@ -237,3 +237,4 @@
 0432. 🎨 style: apply consistent indentation
 0591. ♻️ chore: clean up unused files
 0715. ✨ feat: create admin dashboard
+0517. ✅ test: mock database connection in test suite
