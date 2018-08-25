@@ -217,3 +217,4 @@
 0080. ✨ feat: support email verification
 0401. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
+0193. 🚀 perf: optimize database query for quiz results
