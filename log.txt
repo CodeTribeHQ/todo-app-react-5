@@ -220,3 +220,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0348. ✅ test: test user registration edge cases
 0275. 🎨 style: standardize quote style
+0220. 🐛 fix: fix null pointer exception on login
