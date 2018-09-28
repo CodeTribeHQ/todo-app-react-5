@@ -246,3 +246,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0054. ♻️ chore: update .gitignore
 0180. ✨ feat: add export to CSV option
+0996. ✅ test: test user registration edge cases
