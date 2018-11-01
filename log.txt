@@ -240,3 +240,4 @@
 0995. ✅ test: mock database connection in test suite
 0723. 🔧 refactor: remove redundant code blocks
 0646. ✅ test: test user registration edge cases
+0876. ♻️ chore: rename env.example
