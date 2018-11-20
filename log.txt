@@ -245,3 +245,4 @@
 0358. 🚀 perf: reduce image load time
 0279. ✨ feat: support email verification
 0704. 🚀 perf: cache repeated calculations
+0448. 🐛 fix: correct typo in registration form
