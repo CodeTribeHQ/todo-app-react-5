@@ -261,3 +261,4 @@
 0095. ✅ test: mock database connection in test suite
 0482. ✨ feat: add export to CSV option
 0371. ✅ test: add integration test for /submit endpoint
+0376. 🎨 style: apply consistent indentation
