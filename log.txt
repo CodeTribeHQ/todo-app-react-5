@@ -250,3 +250,4 @@
 0271. ✅ test: add unit test for quiz service
 0839. 🎨 style: apply consistent indentation
 0181. ♻️ chore: add GitHub actions badge
+0858. ♻️ chore: clean up unused files
