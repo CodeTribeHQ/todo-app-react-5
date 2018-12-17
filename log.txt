@@ -265,3 +265,4 @@
 0395. 📚 docs: write FAQ section
 0428. 🐛 fix: fix null pointer exception on login
 0843. 📚 docs: document token refresh logic
+0732. ♻️ chore: add GitHub actions badge
