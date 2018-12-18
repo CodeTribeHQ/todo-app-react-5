@@ -253,3 +253,4 @@
 0858. ♻️ chore: clean up unused files
 0164. 📚 docs: document token refresh logic
 0061. ✨ feat: create admin dashboard
+0249. ✅ test: increase coverage on auth module
