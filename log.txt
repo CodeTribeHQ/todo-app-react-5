@@ -255,3 +255,4 @@
 0061. ✨ feat: create admin dashboard
 0249. ✅ test: increase coverage on auth module
 0459. 🔧 refactor: organize models into subfolders
+0973. 🔧 refactor: organize models into subfolders
