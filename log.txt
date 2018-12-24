@@ -257,3 +257,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0973. 🔧 refactor: organize models into subfolders
 0152. ✨ feat: add user authentication
+0911. ✅ test: increase coverage on auth module
