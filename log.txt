@@ -260,3 +260,4 @@
 0911. ✅ test: increase coverage on auth module
 0559. 🔧 refactor: split large controller into smaller functions
 0969. ✨ feat: create admin dashboard
+0854. ♻️ chore: rename env.example
