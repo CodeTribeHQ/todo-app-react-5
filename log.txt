@@ -269,3 +269,4 @@
 0353. ♻️ chore: rename env.example
 0480. ♻️ chore: add GitHub actions badge
 0023. 📚 docs: clarify environment setup
+0355. 🚀 perf: optimize database query for quiz results
