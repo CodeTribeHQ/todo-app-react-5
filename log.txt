@@ -262,3 +262,4 @@
 0969. ✨ feat: create admin dashboard
 0854. ♻️ chore: rename env.example
 0925. ✨ feat: add export to CSV option
+0273. 🚀 perf: reduce image load time
