@@ -278,3 +278,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0335. ♻️ chore: update .gitignore
 0774. 🔧 refactor: refactor quiz grading logic
+0292. 📚 docs: clarify environment setup
