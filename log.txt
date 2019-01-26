@@ -269,3 +269,4 @@
 0215. 🎨 style: reformat files with black
 0706. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
+0844. 📚 docs: update README with setup steps
