@@ -281,3 +281,4 @@
 0292. 📚 docs: clarify environment setup
 0407. 🚀 perf: cache repeated calculations
 0985. 📚 docs: document token refresh logic
+0594. 🎨 style: reformat files with black
