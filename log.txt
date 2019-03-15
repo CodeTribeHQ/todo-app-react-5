@@ -280,3 +280,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0334. 🚀 perf: cache repeated calculations
 0572. ✨ feat: add user authentication
+0507. 🔧 refactor: clean up auth middleware
