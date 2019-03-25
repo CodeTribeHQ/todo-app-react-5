@@ -296,3 +296,4 @@
 0155. ✨ feat: create admin dashboard
 0142. ✨ feat: implement quiz timer feature
 0080. ✨ feat: support email verification
+0827. 🚀 perf: optimize database query for quiz results
