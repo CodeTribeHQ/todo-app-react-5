@@ -289,3 +289,4 @@
 0866. 📚 docs: add API usage examples
 0626. 🎨 style: standardize quote style
 0198. 📚 docs: clarify environment setup
+0589. 🐛 fix: fix broken CSS in mobile view
