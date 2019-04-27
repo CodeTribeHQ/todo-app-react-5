@@ -291,3 +291,4 @@
 0198. 📚 docs: clarify environment setup
 0589. 🐛 fix: fix broken CSS in mobile view
 0913. 🚀 perf: optimize database query for quiz results
+0816. 🔧 refactor: organize models into subfolders
