@@ -305,3 +305,4 @@
 0833. ✨ feat: add user authentication
 0324. 📚 docs: document token refresh logic
 0901. ✨ feat: add user authentication
+0725. 🚀 perf: lazy-load components
