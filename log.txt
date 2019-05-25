@@ -309,3 +309,4 @@
 0238. 🎨 style: apply consistent indentation
 0298. ♻️ chore: update .gitignore
 0877. 🚀 perf: optimize database query for quiz results
+0041. 🐛 fix: fix broken CSS in mobile view
