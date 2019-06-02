@@ -303,3 +303,4 @@
 0062. ♻️ chore: update .gitignore
 0185. 📚 docs: write FAQ section
 0921. 🐛 fix: correct typo in registration form
+0487. 🎨 style: reformat files with black
