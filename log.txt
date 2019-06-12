@@ -306,3 +306,4 @@
 0487. 🎨 style: reformat files with black
 0300. ✨ feat: add export to CSV option
 0946. ✅ test: add unit test for quiz service
+0375. 🐛 fix: handle 500 error in quiz API
