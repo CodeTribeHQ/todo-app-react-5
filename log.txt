@@ -312,3 +312,4 @@
 0470. 🎨 style: remove trailing whitespace
 0209. ✨ feat: implement quiz timer feature
 0114. ♻️ chore: update .gitignore
+0752. ✅ test: add integration test for /submit endpoint
