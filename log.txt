@@ -318,3 +318,4 @@
 0259. 🚀 perf: lazy-load components
 0927. ♻️ chore: bump dependencies
 0252. 🎨 style: remove trailing whitespace
+0844. 📚 docs: update README with setup steps
