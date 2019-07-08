@@ -316,3 +316,4 @@
 0160. ♻️ chore: bump dependencies
 0555. ✨ feat: create admin dashboard
 0996. ✅ test: test user registration edge cases
+0498. ✅ test: mock database connection in test suite
