@@ -335,3 +335,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0963. 🚀 perf: reduce image load time
 0868. ✅ test: add unit test for quiz service
+0194. 🎨 style: standardize quote style
