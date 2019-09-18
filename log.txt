@@ -335,3 +335,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0339. 📚 docs: update README with setup steps
 0267. 📚 docs: improve code comments in utils
+0099. 🚀 perf: reduce image load time
