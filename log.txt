@@ -339,3 +339,4 @@
 0637. 🎨 style: apply consistent indentation
 0613. 🐛 fix: prevent crash on empty input
 0623. 🎨 style: standardize quote style
+0692. ✅ test: add integration test for /submit endpoint
