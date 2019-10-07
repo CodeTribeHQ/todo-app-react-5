@@ -343,3 +343,4 @@
 0687. 🎨 style: remove trailing whitespace
 0149. ✨ feat: add export to CSV option
 0236. 🔧 refactor: remove redundant code blocks
+0645. 🐛 fix: resolve issue with date parsing
