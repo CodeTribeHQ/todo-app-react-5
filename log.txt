@@ -349,3 +349,4 @@
 0524. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
 0739. 🎨 style: remove trailing whitespace
+0536. ✨ feat: add user authentication
