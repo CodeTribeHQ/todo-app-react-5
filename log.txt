@@ -351,3 +351,4 @@
 0739. 🎨 style: remove trailing whitespace
 0536. ✨ feat: add user authentication
 0144. ✅ test: increase coverage on auth module
+0349. ✅ test: increase coverage on auth module
