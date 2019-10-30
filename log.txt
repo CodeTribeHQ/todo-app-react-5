@@ -350,3 +350,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0770. ♻️ chore: rename env.example
 0047. 🎨 style: rename variables for clarity
+0016. 🎨 style: apply consistent indentation
