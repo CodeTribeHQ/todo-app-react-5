@@ -360,3 +360,4 @@
 0766. 🎨 style: reformat files with black
 0344. ♻️ chore: add GitHub actions badge
 0584. 🚀 perf: lazy-load components
+0336. ✨ feat: add export to CSV option
