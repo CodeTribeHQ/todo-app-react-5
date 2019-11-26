@@ -357,3 +357,4 @@
 0251. ♻️ chore: update .gitignore
 0167. 🚀 perf: reduce image load time
 0820. 📚 docs: add API usage examples
+0210. 🎨 style: apply consistent indentation
