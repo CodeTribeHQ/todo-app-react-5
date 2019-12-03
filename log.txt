@@ -359,3 +359,4 @@
 0820. 📚 docs: add API usage examples
 0210. 🎨 style: apply consistent indentation
 0174. 📚 docs: clarify environment setup
+0243. 🔧 refactor: clean up auth middleware
