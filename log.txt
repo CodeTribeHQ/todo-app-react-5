@@ -376,3 +376,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0029. 🚀 perf: lazy-load components
 0277. 🎨 style: standardize quote style
+0429. ✨ feat: add user authentication
