@@ -382,3 +382,4 @@
 0852. ✨ feat: enable dark mode toggle
 0598. 🔧 refactor: remove redundant code blocks
 0011. ✅ test: add unit test for quiz service
+0424. ✨ feat: add user authentication
