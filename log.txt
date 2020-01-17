@@ -380,3 +380,4 @@
 0801. ✨ feat: enable dark mode toggle
 0740. 🐛 fix: resolve issue with date parsing
 0948. 🐛 fix: fix broken CSS in mobile view
+0203. 🚀 perf: lazy-load components
