@@ -382,3 +382,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0203. 🚀 perf: lazy-load components
 0886. ♻️ chore: clean up unused files
+0111. 📚 docs: update README with setup steps
