@@ -392,3 +392,4 @@
 0859. ✨ feat: create admin dashboard
 0148. 🔧 refactor: organize models into subfolders
 0525. ✅ test: mock database connection in test suite
+0349. ✅ test: increase coverage on auth module
