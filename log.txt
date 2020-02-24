@@ -391,3 +391,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0859. ✨ feat: create admin dashboard
 0148. 🔧 refactor: organize models into subfolders
+0525. ✅ test: mock database connection in test suite
