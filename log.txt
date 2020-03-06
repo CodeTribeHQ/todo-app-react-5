@@ -399,3 +399,4 @@
 0944. ✨ feat: add user authentication
 0695. ✨ feat: create admin dashboard
 0338. ♻️ chore: add GitHub actions badge
+0834. ✅ test: increase coverage on auth module
