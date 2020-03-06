@@ -400,3 +400,4 @@
 0695. ✨ feat: create admin dashboard
 0338. ♻️ chore: add GitHub actions badge
 0834. ✅ test: increase coverage on auth module
+0180. ✨ feat: add export to CSV option
