@@ -405,3 +405,4 @@
 0079. 🐛 fix: correct typo in registration form
 0673. 🐛 fix: correct typo in registration form
 0431. 🎨 style: reformat files with black
+0503. ♻️ chore: rename env.example
