@@ -403,3 +403,4 @@
 0104. 🎨 style: apply consistent indentation
 0032. 🎨 style: apply consistent indentation
 0435. ✅ test: add unit test for quiz service
+0735. ♻️ chore: add GitHub actions badge
