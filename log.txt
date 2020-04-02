@@ -407,3 +407,4 @@
 0431. 🎨 style: reformat files with black
 0503. ♻️ chore: rename env.example
 0945. ♻️ chore: add GitHub actions badge
+0863. 🐛 fix: correct typo in registration form
