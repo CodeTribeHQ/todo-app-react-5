@@ -408,3 +408,4 @@
 0503. ♻️ chore: rename env.example
 0945. ♻️ chore: add GitHub actions badge
 0863. 🐛 fix: correct typo in registration form
+0719. 🎨 style: apply consistent indentation
