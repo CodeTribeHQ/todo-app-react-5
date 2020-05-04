@@ -420,3 +420,4 @@
 0911. ✅ test: increase coverage on auth module
 0175. 📚 docs: add API usage examples
 0659. 📚 docs: add API usage examples
+0576. ♻️ chore: update .gitignore
