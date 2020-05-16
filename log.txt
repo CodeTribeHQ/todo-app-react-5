@@ -424,3 +424,4 @@
 0070. ✨ feat: implement quiz timer feature
 0103. 🔧 refactor: remove redundant code blocks
 0211. 🔧 refactor: remove redundant code blocks
+0539. 🔧 refactor: organize models into subfolders
