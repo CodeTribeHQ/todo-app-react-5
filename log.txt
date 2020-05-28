@@ -431,3 +431,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0347. ♻️ chore: update .gitignore
 0105. 🐛 fix: correct typo in registration form
+0547. 📚 docs: write FAQ section
