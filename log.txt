@@ -433,3 +433,4 @@
 0105. 🐛 fix: correct typo in registration form
 0547. 📚 docs: write FAQ section
 0217. 🚀 perf: reduce image load time
+0491. 🚀 perf: lazy-load components
