@@ -435,3 +435,4 @@
 0217. 🚀 perf: reduce image load time
 0491. 🚀 perf: lazy-load components
 0515. 🚀 perf: optimize database query for quiz results
+0697. ♻️ chore: bump dependencies
