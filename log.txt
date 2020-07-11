@@ -443,3 +443,4 @@
 0332. 🎨 style: standardize quote style
 0384. 📚 docs: clarify environment setup
 0067. 🔧 refactor: remove redundant code blocks
+0935. 📚 docs: update README with setup steps
