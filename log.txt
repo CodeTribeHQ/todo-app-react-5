@@ -446,3 +446,4 @@
 0935. 📚 docs: update README with setup steps
 0188. 🎨 style: apply consistent indentation
 0024. 📚 docs: write FAQ section
+0319. 🐛 fix: handle 500 error in quiz API
