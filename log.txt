@@ -445,3 +445,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0935. 📚 docs: update README with setup steps
 0188. 🎨 style: apply consistent indentation
+0024. 📚 docs: write FAQ section
