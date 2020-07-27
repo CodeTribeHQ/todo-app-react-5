@@ -452,3 +452,4 @@
 0126. 🎨 style: rename variables for clarity
 0769. ✨ feat: create admin dashboard
 0427. ✅ test: mock database connection in test suite
+0115. 🚀 perf: reduce image load time
