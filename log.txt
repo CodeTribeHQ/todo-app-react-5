@@ -457,3 +457,4 @@
 0838. 🎨 style: standardize quote style
 0382. 📚 docs: improve code comments in utils
 0735. ♻️ chore: add GitHub actions badge
+0378. 🐛 fix: prevent crash on empty input
