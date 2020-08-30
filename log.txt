@@ -465,3 +465,4 @@
 0556. ✨ feat: support email verification
 0849. 🐛 fix: correct typo in registration form
 0277. 🎨 style: standardize quote style
+0100. ♻️ chore: update .gitignore
