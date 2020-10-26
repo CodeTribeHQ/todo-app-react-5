@@ -475,3 +475,4 @@
 0122. ✨ feat: support email verification
 0398. 🚀 perf: cache repeated calculations
 0244. ✨ feat: add export to CSV option
+0196. ♻️ chore: bump dependencies
