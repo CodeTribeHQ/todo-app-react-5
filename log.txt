@@ -491,3 +491,4 @@
 0441. 📚 docs: add API usage examples
 0592. 📚 docs: add API usage examples
 0542. 🔧 refactor: organize models into subfolders
+0692. ✅ test: add integration test for /submit endpoint
