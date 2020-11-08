@@ -480,3 +480,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
 0284. ✨ feat: implement quiz timer feature
+0605. ✨ feat: support email verification
