@@ -498,3 +498,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0196. ♻️ chore: bump dependencies
 0522. 🐛 fix: handle 500 error in quiz API
+0024. 📚 docs: write FAQ section
