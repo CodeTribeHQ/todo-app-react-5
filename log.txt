@@ -502,3 +502,4 @@
 0795. 📚 docs: update README with setup steps
 0605. ✨ feat: support email verification
 0450. 🐛 fix: fix broken CSS in mobile view
+0278. 🔧 refactor: clean up auth middleware
