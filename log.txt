@@ -500,3 +500,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0024. 📚 docs: write FAQ section
 0795. 📚 docs: update README with setup steps
+0605. ✨ feat: support email verification
