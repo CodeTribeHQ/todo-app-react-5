@@ -507,3 +507,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0616. 🚀 perf: lazy-load components
 0302. ✨ feat: implement quiz timer feature
+0037. 🐛 fix: correct typo in registration form
