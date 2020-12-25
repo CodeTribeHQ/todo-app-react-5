@@ -510,3 +510,4 @@
 0037. 🐛 fix: correct typo in registration form
 0473. 📚 docs: write FAQ section
 0146. 🎨 style: apply consistent indentation
+0775. 🐛 fix: fix null pointer exception on login
