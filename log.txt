@@ -511,3 +511,4 @@
 0473. 📚 docs: write FAQ section
 0146. 🎨 style: apply consistent indentation
 0775. 🐛 fix: fix null pointer exception on login
+0555. ✨ feat: create admin dashboard
