@@ -499,3 +499,4 @@
 0592. 📚 docs: add API usage examples
 0281. ✨ feat: support email verification
 0518. ✨ feat: support email verification
+0068. 🐛 fix: fix null pointer exception on login
