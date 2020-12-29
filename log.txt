@@ -513,3 +513,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0555. ✨ feat: create admin dashboard
 0125. ✅ test: add integration test for /submit endpoint
+0305. ✨ feat: enable dark mode toggle
