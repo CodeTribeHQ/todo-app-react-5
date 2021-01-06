@@ -501,3 +501,4 @@
 0518. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
 0853. 🔧 refactor: refactor quiz grading logic
+0257. 📚 docs: clarify environment setup
