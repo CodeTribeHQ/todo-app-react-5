@@ -519,3 +519,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0939. 📚 docs: update README with setup steps
 0896. 🚀 perf: reduce image load time
+0885. ♻️ chore: update .gitignore
