@@ -506,3 +506,4 @@
 0016. 🎨 style: apply consistent indentation
 0529. 📚 docs: write FAQ section
 0051. ✨ feat: enable dark mode toggle
+0433. 🐛 fix: prevent crash on empty input
