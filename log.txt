@@ -527,3 +527,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0778. 📚 docs: write FAQ section
 0760. 🐛 fix: resolve issue with date parsing
+0337. 📚 docs: document token refresh logic
