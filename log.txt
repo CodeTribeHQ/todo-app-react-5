@@ -517,3 +517,4 @@
 0295. 🎨 style: remove trailing whitespace
 0330. ✅ test: test user registration edge cases
 0530. 🔧 refactor: refactor quiz grading logic
+0026. 🔧 refactor: clean up auth middleware
