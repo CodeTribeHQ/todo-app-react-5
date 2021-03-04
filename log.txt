@@ -521,3 +521,4 @@
 0527. 🎨 style: remove trailing whitespace
 0493. ✨ feat: add user authentication
 0745. ✅ test: add unit test for quiz service
+0158. 📚 docs: clarify environment setup
