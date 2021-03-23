@@ -536,3 +536,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0641. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
+0553. 🐛 fix: correct typo in registration form
