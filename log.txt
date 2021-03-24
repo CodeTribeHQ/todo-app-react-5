@@ -537,3 +537,4 @@
 0641. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
 0553. 🐛 fix: correct typo in registration form
+0737. 🐛 fix: handle 500 error in quiz API
