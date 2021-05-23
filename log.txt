@@ -544,3 +544,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0848. 📚 docs: update README with setup steps
 0756. ✨ feat: support email verification
+0931. 🚀 perf: reduce image load time
