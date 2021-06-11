@@ -550,3 +550,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0458. ✨ feat: create admin dashboard
 0471. ✨ feat: support email verification
+0484. 🐛 fix: handle 500 error in quiz API
