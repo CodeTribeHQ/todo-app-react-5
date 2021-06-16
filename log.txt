@@ -561,3 +561,4 @@
 0052. 🎨 style: standardize quote style
 0161. ✨ feat: create admin dashboard
 0262. 🎨 style: remove trailing whitespace
+0917. ✅ test: add integration test for /submit endpoint
