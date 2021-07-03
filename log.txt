@@ -559,3 +559,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0056. ♻️ chore: rename env.example
 0714. 📚 docs: improve code comments in utils
+0849. 🐛 fix: correct typo in registration form
