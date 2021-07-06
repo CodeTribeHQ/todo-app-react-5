@@ -561,3 +561,4 @@
 0714. 📚 docs: improve code comments in utils
 0849. 🐛 fix: correct typo in registration form
 0597. 🚀 perf: cache repeated calculations
+0463. 🚀 perf: reduce image load time
