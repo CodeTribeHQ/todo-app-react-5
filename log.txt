@@ -569,3 +569,4 @@
 0662. ♻️ chore: clean up unused files
 0294. 🐛 fix: prevent crash on empty input
 0265. 🎨 style: reformat files with black
+0850. ♻️ chore: rename env.example
