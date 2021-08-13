@@ -571,3 +571,4 @@
 0265. 🎨 style: reformat files with black
 0850. ♻️ chore: rename env.example
 0916. ♻️ chore: bump dependencies
+0890. 🔧 refactor: organize models into subfolders
