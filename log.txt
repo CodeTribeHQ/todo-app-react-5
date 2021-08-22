@@ -574,3 +574,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0659. 📚 docs: add API usage examples
 0481. ✅ test: add unit test for quiz service
+0252. 🎨 style: remove trailing whitespace
