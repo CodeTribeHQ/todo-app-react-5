@@ -583,3 +583,4 @@
 0745. ✅ test: add unit test for quiz service
 0549. ✨ feat: enable dark mode toggle
 0629. 🔧 refactor: organize models into subfolders
+0066. 🔧 refactor: clean up auth middleware
