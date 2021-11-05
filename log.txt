@@ -590,3 +590,4 @@
 0654. ✨ feat: create admin dashboard
 0239. 🎨 style: standardize quote style
 0928. 🎨 style: apply consistent indentation
+0914. ✅ test: test user registration edge cases
