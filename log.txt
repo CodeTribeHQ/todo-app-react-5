@@ -591,3 +591,4 @@
 0239. 🎨 style: standardize quote style
 0928. 🎨 style: apply consistent indentation
 0914. ✅ test: test user registration edge cases
+0580. ♻️ chore: bump dependencies
