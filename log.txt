@@ -591,3 +591,4 @@
 0314. ✨ feat: implement quiz timer feature
 0124. 🎨 style: reformat files with black
 0529. 📚 docs: write FAQ section
+0531. 🐛 fix: prevent crash on empty input
