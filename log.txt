@@ -594,3 +594,4 @@
 0580. ♻️ chore: bump dependencies
 0131. 📚 docs: write FAQ section
 0305. ✨ feat: enable dark mode toggle
+0331. 🐛 fix: fix broken CSS in mobile view
