@@ -595,3 +595,4 @@
 0690. 🚀 perf: lazy-load components
 0595. ✨ feat: enable dark mode toggle
 0754. 🐛 fix: handle 500 error in quiz API
+0708. ✅ test: add integration test for /submit endpoint
