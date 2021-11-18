@@ -596,3 +596,4 @@
 0305. ✨ feat: enable dark mode toggle
 0331. 🐛 fix: fix broken CSS in mobile view
 0090. ✅ test: increase coverage on auth module
+0979. 🎨 style: standardize quote style
