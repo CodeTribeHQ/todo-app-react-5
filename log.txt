@@ -598,3 +598,4 @@
 0090. ✅ test: increase coverage on auth module
 0979. 🎨 style: standardize quote style
 0634. 🎨 style: reformat files with black
+0203. 🚀 perf: lazy-load components
