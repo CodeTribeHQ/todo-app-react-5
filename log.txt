@@ -599,3 +599,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0538. 🐛 fix: fix broken CSS in mobile view
 0813. 🔧 refactor: organize models into subfolders
+0181. ♻️ chore: add GitHub actions badge
