@@ -603,3 +603,4 @@
 0889. 🚀 perf: lazy-load components
 0412. ✅ test: increase coverage on auth module
 0625. 🐛 fix: handle 500 error in quiz API
+0027. 📚 docs: clarify environment setup
