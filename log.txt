@@ -605,3 +605,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0027. 📚 docs: clarify environment setup
 0590. 🐛 fix: fix null pointer exception on login
+0270. ♻️ chore: rename env.example
