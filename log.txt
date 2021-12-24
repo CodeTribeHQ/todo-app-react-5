@@ -610,3 +610,4 @@
 0954. 🚀 perf: cache repeated calculations
 0109. 🚀 perf: lazy-load components
 0449. ✅ test: add unit test for quiz service
+0689. 🎨 style: reformat files with black
