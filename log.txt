@@ -614,3 +614,4 @@
 0997. ✅ test: increase coverage on auth module
 0234. ♻️ chore: rename env.example
 0670. ✨ feat: add export to CSV option
+0621. 🔧 refactor: clean up auth middleware
