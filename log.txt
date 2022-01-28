@@ -619,3 +619,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0288. 🔧 refactor: refactor quiz grading logic
 0102. ✨ feat: support email verification
+0672. 🐛 fix: fix broken CSS in mobile view
