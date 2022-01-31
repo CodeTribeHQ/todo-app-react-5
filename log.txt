@@ -621,3 +621,4 @@
 0102. ✨ feat: support email verification
 0672. 🐛 fix: fix broken CSS in mobile view
 0087. ✨ feat: add export to CSV option
+0545. 🎨 style: standardize quote style
