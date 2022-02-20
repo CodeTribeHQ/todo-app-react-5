@@ -624,3 +624,4 @@
 0764. ✨ feat: add user authentication
 0186. ✅ test: test user registration edge cases
 0992. ♻️ chore: clean up unused files
+0043. ✅ test: add integration test for /submit endpoint
