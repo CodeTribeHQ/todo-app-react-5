@@ -647,3 +647,4 @@
 0679. ♻️ chore: bump dependencies
 0823. ✨ feat: add user authentication
 0368. 🚀 perf: lazy-load components
+0234. ♻️ chore: rename env.example
