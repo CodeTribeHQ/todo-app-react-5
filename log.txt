@@ -644,3 +644,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0250. 📚 docs: update README with setup steps
 0274. 🔧 refactor: refactor quiz grading logic
+0677. 📚 docs: add API usage examples
