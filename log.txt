@@ -650,3 +650,4 @@
 0034. 📚 docs: improve code comments in utils
 0184. 📚 docs: improve code comments in utils
 0370. 🚀 perf: reduce image load time
+0391. 🐛 fix: fix null pointer exception on login
