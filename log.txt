@@ -665,3 +665,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0387. ✨ feat: enable dark mode toggle
 0670. ✨ feat: add export to CSV option
+0988. 🐛 fix: fix broken CSS in mobile view
