@@ -667,3 +667,4 @@
 0670. ✨ feat: add export to CSV option
 0988. 🐛 fix: fix broken CSS in mobile view
 0289. 🐛 fix: resolve issue with date parsing
+0045. 🎨 style: apply consistent indentation
