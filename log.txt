@@ -657,3 +657,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0645. 🐛 fix: resolve issue with date parsing
 0884. 📚 docs: clarify environment setup
+0572. ✨ feat: add user authentication
