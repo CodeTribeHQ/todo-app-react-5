@@ -659,3 +659,4 @@
 0884. 📚 docs: clarify environment setup
 0572. ✨ feat: add user authentication
 0158. 📚 docs: clarify environment setup
+0701. 🔧 refactor: clean up auth middleware
