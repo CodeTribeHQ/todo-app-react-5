@@ -671,3 +671,4 @@
 0199. ✨ feat: create admin dashboard
 0054. ♻️ chore: update .gitignore
 0315. ✅ test: add integration test for /submit endpoint
+0085. ✨ feat: support email verification
