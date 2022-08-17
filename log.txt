@@ -677,3 +677,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0310. 🔧 refactor: refactor quiz grading logic
 0031. 📚 docs: document token refresh logic
+0932. ✅ test: add integration test for /submit endpoint
