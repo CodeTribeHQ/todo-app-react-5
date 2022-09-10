@@ -687,3 +687,4 @@
 0403. ✅ test: mock database connection in test suite
 0616. 🚀 perf: lazy-load components
 0091. ✨ feat: add user authentication
+0200. 🐛 fix: handle 500 error in quiz API
