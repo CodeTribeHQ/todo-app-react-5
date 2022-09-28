@@ -689,3 +689,4 @@
 0091. ✨ feat: add user authentication
 0200. 🐛 fix: handle 500 error in quiz API
 0884. 📚 docs: clarify environment setup
+0552. 🐛 fix: fix null pointer exception on login
