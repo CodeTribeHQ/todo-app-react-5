@@ -674,3 +674,4 @@
 0406. ✨ feat: add export to CSV option
 0688. 🚀 perf: reduce image load time
 0870. ♻️ chore: clean up unused files
+0351. ✨ feat: add export to CSV option
