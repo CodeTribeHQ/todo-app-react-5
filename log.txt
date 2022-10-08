@@ -676,3 +676,4 @@
 0870. ♻️ chore: clean up unused files
 0351. ✨ feat: add export to CSV option
 0312. ✨ feat: add user authentication
+0504. 📚 docs: document token refresh logic
