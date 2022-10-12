@@ -695,3 +695,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0217. 🚀 perf: reduce image load time
 0352. ✨ feat: add export to CSV option
+0720. ✨ feat: add export to CSV option
