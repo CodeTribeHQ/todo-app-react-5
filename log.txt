@@ -699,3 +699,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0764. ✨ feat: add user authentication
 0561. 📚 docs: write FAQ section
+0760. 🐛 fix: resolve issue with date parsing
