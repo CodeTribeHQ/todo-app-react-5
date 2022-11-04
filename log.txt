@@ -703,3 +703,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0891. ✨ feat: create admin dashboard
 0089. 🔧 refactor: remove redundant code blocks
+0363. 📚 docs: clarify environment setup
