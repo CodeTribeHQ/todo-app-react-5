@@ -683,3 +683,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0200. 🐛 fix: handle 500 error in quiz API
 0458. ✨ feat: create admin dashboard
+0303. 🎨 style: rename variables for clarity
