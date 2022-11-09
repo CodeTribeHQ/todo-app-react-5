@@ -704,3 +704,4 @@
 0891. ✨ feat: create admin dashboard
 0089. 🔧 refactor: remove redundant code blocks
 0363. 📚 docs: clarify environment setup
+0231. 🔧 refactor: clean up auth middleware
