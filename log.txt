@@ -710,3 +710,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0799. ♻️ chore: clean up unused files
 0514. 🐛 fix: fix broken CSS in mobile view
+0446. 🎨 style: apply consistent indentation
