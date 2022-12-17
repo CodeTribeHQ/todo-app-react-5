@@ -696,3 +696,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0133. 🐛 fix: fix null pointer exception on login
 0496. ✅ test: add integration test for /submit endpoint
+0890. 🔧 refactor: organize models into subfolders
