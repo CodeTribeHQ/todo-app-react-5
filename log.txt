@@ -713,3 +713,4 @@
 0446. 🎨 style: apply consistent indentation
 0306. 🎨 style: apply consistent indentation
 0296. 🔧 refactor: organize models into subfolders
+0795. 📚 docs: update README with setup steps
