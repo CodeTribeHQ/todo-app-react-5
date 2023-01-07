@@ -717,3 +717,4 @@
 0685. ✅ test: test user registration edge cases
 0604. 📚 docs: add API usage examples
 0947. 📚 docs: write FAQ section
+0197. 📚 docs: update README with setup steps
