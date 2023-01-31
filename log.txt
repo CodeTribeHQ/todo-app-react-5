@@ -714,3 +714,4 @@
 0056. ♻️ chore: rename env.example
 0899. 🚀 perf: cache repeated calculations
 0707. 🎨 style: apply consistent indentation
+0567. 📚 docs: add API usage examples
