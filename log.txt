@@ -716,3 +716,4 @@
 0707. 🎨 style: apply consistent indentation
 0567. 📚 docs: add API usage examples
 0980. 🎨 style: reformat files with black
+0628. ♻️ chore: add GitHub actions badge
