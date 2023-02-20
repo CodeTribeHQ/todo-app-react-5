@@ -720,3 +720,4 @@
 0159. 🚀 perf: lazy-load components
 0045. 🎨 style: apply consistent indentation
 0287. 📚 docs: write FAQ section
+0422. 🔧 refactor: organize models into subfolders
