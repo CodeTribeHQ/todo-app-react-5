@@ -722,3 +722,4 @@
 0287. 📚 docs: write FAQ section
 0422. 🔧 refactor: organize models into subfolders
 0646. ✅ test: test user registration edge cases
+0990. ♻️ chore: rename env.example
