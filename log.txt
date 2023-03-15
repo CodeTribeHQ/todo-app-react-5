@@ -730,3 +730,4 @@
 0369. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
+0607. 🐛 fix: prevent crash on empty input
