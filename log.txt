@@ -728,3 +728,4 @@
 0695. ✨ feat: create admin dashboard
 0334. 🚀 perf: cache repeated calculations
 0294. 🐛 fix: prevent crash on empty input
+0316. 🐛 fix: fix broken CSS in mobile view
