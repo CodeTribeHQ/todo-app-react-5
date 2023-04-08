@@ -736,3 +736,4 @@
 0769. ✨ feat: create admin dashboard
 0416. 🎨 style: rename variables for clarity
 0907. 🔧 refactor: split large controller into smaller functions
+0264. 🚀 perf: optimize database query for quiz results
