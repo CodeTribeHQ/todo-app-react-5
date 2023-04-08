@@ -736,3 +736,4 @@
 0635. 🎨 style: apply consistent indentation
 0239. 🎨 style: standardize quote style
 0928. 🎨 style: apply consistent indentation
+0420. 🚀 perf: reduce image load time
