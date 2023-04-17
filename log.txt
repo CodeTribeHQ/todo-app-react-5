@@ -741,3 +741,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0608. 🔧 refactor: remove redundant code blocks
 0356. 📚 docs: write FAQ section
+0397. 🐛 fix: handle 500 error in quiz API
