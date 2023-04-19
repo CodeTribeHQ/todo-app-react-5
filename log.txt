@@ -742,3 +742,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0356. 📚 docs: write FAQ section
 0397. 🐛 fix: handle 500 error in quiz API
+0919. 🚀 perf: optimize database query for quiz results
