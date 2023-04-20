@@ -739,3 +739,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0151. ✅ test: add unit test for quiz service
 0260. ✨ feat: create admin dashboard
+0109. 🚀 perf: lazy-load components
