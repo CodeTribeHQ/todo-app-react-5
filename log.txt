@@ -742,3 +742,4 @@
 0109. 🚀 perf: lazy-load components
 0669. ✨ feat: enable dark mode toggle
 0755. 🚀 perf: cache repeated calculations
+0224. 🐛 fix: fix broken CSS in mobile view
