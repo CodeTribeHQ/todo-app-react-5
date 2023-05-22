@@ -747,3 +747,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0123. ✨ feat: implement quiz timer feature
 0049. 🐛 fix: handle 500 error in quiz API
+0604. 📚 docs: add API usage examples
