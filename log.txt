@@ -748,3 +748,4 @@
 0123. ✨ feat: implement quiz timer feature
 0049. 🐛 fix: handle 500 error in quiz API
 0604. 📚 docs: add API usage examples
+0545. 🎨 style: standardize quote style
