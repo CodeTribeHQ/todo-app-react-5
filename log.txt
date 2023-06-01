@@ -750,3 +750,4 @@
 0604. 📚 docs: add API usage examples
 0545. 🎨 style: standardize quote style
 0177. 📚 docs: add API usage examples
+0368. 🚀 perf: lazy-load components
