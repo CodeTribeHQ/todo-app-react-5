@@ -758,3 +758,4 @@
 0834. ✅ test: increase coverage on auth module
 0222. 🐛 fix: handle 500 error in quiz API
 0340. 🚀 perf: optimize database query for quiz results
+0439. 🐛 fix: correct typo in registration form
