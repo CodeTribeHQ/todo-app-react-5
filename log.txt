@@ -764,3 +764,4 @@
 0178. ✨ feat: support email verification
 0459. 🔧 refactor: organize models into subfolders
 0187. ✨ feat: support email verification
+0678. ✨ feat: add user authentication
