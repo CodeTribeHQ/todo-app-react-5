@@ -766,3 +766,4 @@
 0187. ✨ feat: support email verification
 0678. ✨ feat: add user authentication
 0988. 🐛 fix: fix broken CSS in mobile view
+0962. ✨ feat: create admin dashboard
