@@ -767,3 +767,4 @@
 0678. ✨ feat: add user authentication
 0988. 🐛 fix: fix broken CSS in mobile view
 0962. ✨ feat: create admin dashboard
+0081. 🐛 fix: fix null pointer exception on login
