@@ -775,3 +775,4 @@
 0163. ✨ feat: implement quiz timer feature
 0356. 📚 docs: write FAQ section
 0447. ♻️ chore: bump dependencies
+0596. ♻️ chore: update .gitignore
