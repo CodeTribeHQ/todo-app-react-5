@@ -777,3 +777,4 @@
 0447. ♻️ chore: bump dependencies
 0596. ♻️ chore: update .gitignore
 0765. ♻️ chore: clean up unused files
+0564. 📚 docs: clarify environment setup
