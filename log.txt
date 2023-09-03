@@ -774,3 +774,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0922. 📚 docs: write FAQ section
 0925. ✨ feat: add export to CSV option
+0192. ✨ feat: enable dark mode toggle
