@@ -778,3 +778,4 @@
 0596. ♻️ chore: update .gitignore
 0765. ♻️ chore: clean up unused files
 0564. 📚 docs: clarify environment setup
+0221. ✨ feat: add user authentication
