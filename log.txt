@@ -776,3 +776,4 @@
 0925. ✨ feat: add export to CSV option
 0192. ✨ feat: enable dark mode toggle
 0436. ✅ test: add integration test for /submit endpoint
+0950. 🎨 style: reformat files with black
