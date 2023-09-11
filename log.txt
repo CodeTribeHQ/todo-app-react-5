@@ -778,3 +778,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0950. 🎨 style: reformat files with black
 0632. 🎨 style: remove trailing whitespace
+0471. ✨ feat: support email verification
