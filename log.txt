@@ -791,3 +791,4 @@
 0035. ✅ test: increase coverage on auth module
 0064. 📚 docs: clarify environment setup
 0420. 🚀 perf: reduce image load time
+0859. ✨ feat: create admin dashboard
