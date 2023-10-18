@@ -784,3 +784,4 @@
 0372. ✨ feat: add user authentication
 0674. 🔧 refactor: split large controller into smaller functions
 0617. ✨ feat: support email verification
+0489. 🔧 refactor: organize models into subfolders
