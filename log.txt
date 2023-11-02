@@ -796,3 +796,4 @@
 0682. ♻️ chore: rename env.example
 0880. 🐛 fix: fix broken CSS in mobile view
 0984. ♻️ chore: clean up unused files
+0915. 🚀 perf: cache repeated calculations
