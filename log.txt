@@ -802,3 +802,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0972. 🔧 refactor: refactor quiz grading logic
 0855. 🎨 style: reformat files with black
+0511. 🐛 fix: fix broken CSS in mobile view
