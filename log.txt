@@ -800,3 +800,4 @@
 0464. 🎨 style: remove trailing whitespace
 0698. 🐛 fix: handle 500 error in quiz API
 0781. 🚀 perf: reduce image load time
+0331. 🐛 fix: fix broken CSS in mobile view
