@@ -819,3 +819,4 @@
 0970. ♻️ chore: update .gitignore
 0706. ✨ feat: support email verification
 0994. 🚀 perf: reduce image load time
+0330. ✅ test: test user registration edge cases
