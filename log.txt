@@ -821,3 +821,4 @@
 0994. 🚀 perf: reduce image load time
 0330. ✅ test: test user registration edge cases
 0583. ✅ test: increase coverage on auth module
+0826. 📚 docs: clarify environment setup
