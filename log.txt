@@ -822,3 +822,4 @@
 0330. ✅ test: test user registration edge cases
 0583. ✅ test: increase coverage on auth module
 0826. 📚 docs: clarify environment setup
+0869. ♻️ chore: bump dependencies
