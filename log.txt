@@ -824,3 +824,4 @@
 0826. 📚 docs: clarify environment setup
 0869. ♻️ chore: bump dependencies
 0543. ✨ feat: support email verification
+0501. ✨ feat: add export to CSV option
