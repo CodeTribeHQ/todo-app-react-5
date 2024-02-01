@@ -830,3 +830,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0540. ♻️ chore: add GitHub actions badge
 0254. 🚀 perf: reduce image load time
+0488. ♻️ chore: add GitHub actions badge
