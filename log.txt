@@ -833,3 +833,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0551. 📚 docs: write FAQ section
 0596. ♻️ chore: update .gitignore
+0523. ♻️ chore: bump dependencies
