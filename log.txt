@@ -827,3 +827,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0537. 🔧 refactor: remove redundant code blocks
 0232. 🎨 style: apply consistent indentation
+0901. ✨ feat: add user authentication
