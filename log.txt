@@ -830,3 +830,4 @@
 0901. ✨ feat: add user authentication
 0186. ✅ test: test user registration edge cases
 0785. ✨ feat: enable dark mode toggle
+0508. ✅ test: add unit test for quiz service
