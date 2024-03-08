@@ -839,3 +839,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0015. ✨ feat: implement quiz timer feature
 0475. 🔧 refactor: clean up auth middleware
+0117. ✅ test: increase coverage on auth module
