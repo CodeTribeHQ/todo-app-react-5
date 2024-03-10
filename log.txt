@@ -841,3 +841,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0117. ✅ test: increase coverage on auth module
 0412. ✅ test: increase coverage on auth module
+0122. ✨ feat: support email verification
