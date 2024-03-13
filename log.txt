@@ -844,3 +844,4 @@
 0122. ✨ feat: support email verification
 0028. 🎨 style: standardize quote style
 0648. ♻️ chore: bump dependencies
+0290. ✅ test: test user registration edge cases
