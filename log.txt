@@ -833,3 +833,4 @@
 0508. ✅ test: add unit test for quiz service
 0639. 🐛 fix: correct typo in registration form
 0509. ♻️ chore: bump dependencies
+0450. 🐛 fix: fix broken CSS in mobile view
