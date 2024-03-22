@@ -834,3 +834,4 @@
 0639. 🐛 fix: correct typo in registration form
 0509. ♻️ chore: bump dependencies
 0450. 🐛 fix: fix broken CSS in mobile view
+0504. 📚 docs: document token refresh logic
