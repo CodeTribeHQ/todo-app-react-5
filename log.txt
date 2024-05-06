@@ -845,3 +845,4 @@
 0291. 📚 docs: write FAQ section
 0388. 🎨 style: reformat files with black
 0653. 🐛 fix: prevent crash on empty input
+0391. 🐛 fix: fix null pointer exception on login
