@@ -851,3 +851,4 @@
 0357. ✅ test: add unit test for quiz service
 0586. 🎨 style: remove trailing whitespace
 0321. 🔧 refactor: organize models into subfolders
+0948. 🐛 fix: fix broken CSS in mobile view
