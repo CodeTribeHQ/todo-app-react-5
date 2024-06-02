@@ -863,3 +863,4 @@
 0755. 🚀 perf: cache repeated calculations
 0053. ✅ test: increase coverage on auth module
 0352. ✨ feat: add export to CSV option
+0379. ✨ feat: support email verification
