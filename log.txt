@@ -871,3 +871,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0622. 🎨 style: apply consistent indentation
 0051. ✨ feat: enable dark mode toggle
+0923. ✨ feat: support email verification
