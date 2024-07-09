@@ -866,3 +866,4 @@
 0726. ✨ feat: enable dark mode toggle
 0585. 🚀 perf: lazy-load components
 0956. 📚 docs: clarify environment setup
+0362. 📚 docs: add API usage examples
