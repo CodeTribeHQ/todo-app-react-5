@@ -873,3 +873,4 @@
 0051. ✨ feat: enable dark mode toggle
 0923. ✨ feat: support email verification
 0812. 🔧 refactor: refactor quiz grading logic
+0723. 🔧 refactor: remove redundant code blocks
