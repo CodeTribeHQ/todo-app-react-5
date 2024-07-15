@@ -877,3 +877,4 @@
 0121. ✨ feat: support email verification
 0077. ♻️ chore: rename env.example
 0212. 🎨 style: standardize quote style
+0106. 🎨 style: reformat files with black
