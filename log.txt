@@ -881,3 +881,4 @@
 0138. 🎨 style: rename variables for clarity
 0570. 🎨 style: apply consistent indentation
 0711. 🐛 fix: fix broken CSS in mobile view
+0803. ✅ test: mock database connection in test suite
