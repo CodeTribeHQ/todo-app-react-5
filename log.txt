@@ -878,3 +878,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0341. 🚀 perf: lazy-load components
 0053. ✅ test: increase coverage on auth module
+0501. ✨ feat: add export to CSV option
