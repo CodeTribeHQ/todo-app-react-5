@@ -882,3 +882,4 @@
 0570. 🎨 style: apply consistent indentation
 0711. 🐛 fix: fix broken CSS in mobile view
 0803. ✅ test: mock database connection in test suite
+0507. 🔧 refactor: clean up auth middleware
