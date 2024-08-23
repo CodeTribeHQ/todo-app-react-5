@@ -881,3 +881,4 @@
 0501. ✨ feat: add export to CSV option
 0797. 📚 docs: add API usage examples
 0373. 📚 docs: document token refresh logic
+0830. 🎨 style: apply consistent indentation
