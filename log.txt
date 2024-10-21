@@ -903,3 +903,4 @@
 0021. ✨ feat: support email verification
 0342. 🚀 perf: cache repeated calculations
 0512. 🚀 perf: reduce image load time
+0337. 📚 docs: document token refresh logic
