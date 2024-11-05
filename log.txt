@@ -907,3 +907,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0887. 📚 docs: add API usage examples
 0013. ✅ test: increase coverage on auth module
+0594. 🎨 style: reformat files with black
