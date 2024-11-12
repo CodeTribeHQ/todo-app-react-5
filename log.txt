@@ -913,3 +913,4 @@
 0558. ✨ feat: enable dark mode toggle
 0532. 🔧 refactor: split large controller into smaller functions
 0046. 🎨 style: rename variables for clarity
+0671. 🐛 fix: fix null pointer exception on login
