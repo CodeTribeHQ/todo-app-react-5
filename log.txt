@@ -909,3 +909,4 @@
 0013. ✅ test: increase coverage on auth module
 0594. 🎨 style: reformat files with black
 0534. 🔧 refactor: split large controller into smaller functions
+0828. ♻️ chore: add GitHub actions badge
