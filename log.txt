@@ -922,3 +922,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0313. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
+0477. 🐛 fix: fix broken CSS in mobile view
