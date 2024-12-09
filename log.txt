@@ -923,3 +923,4 @@
 0313. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
 0477. 🐛 fix: fix broken CSS in mobile view
+0747. 🔧 refactor: clean up auth middleware
