@@ -923,3 +923,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0902. ✨ feat: enable dark mode toggle
 0238. 🎨 style: apply consistent indentation
+0975. 🎨 style: apply consistent indentation
