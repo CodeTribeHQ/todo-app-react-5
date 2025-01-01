@@ -926,3 +926,4 @@
 0975. 🎨 style: apply consistent indentation
 0118. 🚀 perf: reduce image load time
 0847. ♻️ chore: clean up unused files
+0864. 🐛 fix: correct typo in registration form
