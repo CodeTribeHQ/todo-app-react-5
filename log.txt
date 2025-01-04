@@ -927,3 +927,4 @@
 0118. 🚀 perf: reduce image load time
 0847. ♻️ chore: clean up unused files
 0864. 🐛 fix: correct typo in registration form
+0957. 🐛 fix: fix null pointer exception on login
