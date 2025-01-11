@@ -930,3 +930,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0407. 🚀 perf: cache repeated calculations
 0962. ✨ feat: create admin dashboard
+0698. 🐛 fix: handle 500 error in quiz API
