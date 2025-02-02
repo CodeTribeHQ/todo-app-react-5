@@ -940,3 +940,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0571. 🔧 refactor: clean up auth middleware
 0013. ✅ test: increase coverage on auth module
+0462. ♻️ chore: update .gitignore
