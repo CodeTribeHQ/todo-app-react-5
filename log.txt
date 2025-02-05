@@ -936,3 +936,4 @@
 0722. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
 0609. 🐛 fix: handle 500 error in quiz API
+0812. 🔧 refactor: refactor quiz grading logic
