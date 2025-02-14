@@ -939,3 +939,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0731. 🎨 style: standardize quote style
 0095. ✅ test: mock database connection in test suite
+0820. 📚 docs: add API usage examples
