@@ -942,3 +942,4 @@
 0820. 📚 docs: add API usage examples
 0127. 🐛 fix: fix null pointer exception on login
 0237. 🎨 style: standardize quote style
+0136. 🚀 perf: lazy-load components
