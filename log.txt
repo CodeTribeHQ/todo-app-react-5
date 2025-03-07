@@ -952,3 +952,4 @@
 0198. 📚 docs: clarify environment setup
 0887. 📚 docs: add API usage examples
 0064. 📚 docs: clarify environment setup
+0433. 🐛 fix: prevent crash on empty input
