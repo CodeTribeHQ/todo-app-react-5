@@ -961,3 +961,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0519. 📚 docs: document token refresh logic
 0663. 🚀 perf: reduce image load time
+0873. 🚀 perf: cache repeated calculations
