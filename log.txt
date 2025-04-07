@@ -962,3 +962,4 @@
 0519. 📚 docs: document token refresh logic
 0663. 🚀 perf: reduce image load time
 0873. 🚀 perf: cache repeated calculations
+0633. ✨ feat: add user authentication
