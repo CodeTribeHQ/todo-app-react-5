@@ -962,3 +962,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0425. 🔧 refactor: refactor quiz grading logic
 0324. 📚 docs: document token refresh logic
+0063. 🐛 fix: handle 500 error in quiz API
