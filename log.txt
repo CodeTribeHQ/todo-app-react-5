@@ -969,3 +969,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0982. 🚀 perf: lazy-load components
 0264. 🚀 perf: optimize database query for quiz results
+0546. 🐛 fix: fix null pointer exception on login
