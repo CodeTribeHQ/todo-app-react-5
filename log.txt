@@ -965,3 +965,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0376. 🎨 style: apply consistent indentation
 0112. ✨ feat: enable dark mode toggle
+0436. ✅ test: add integration test for /submit endpoint
