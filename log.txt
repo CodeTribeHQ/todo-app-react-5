@@ -979,3 +979,4 @@
 0192. ✨ feat: enable dark mode toggle
 0093. ✅ test: add unit test for quiz service
 0003. ✅ test: increase coverage on auth module
+0923. ✨ feat: support email verification
