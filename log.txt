@@ -980,3 +980,4 @@
 0093. ✅ test: add unit test for quiz service
 0003. ✅ test: increase coverage on auth module
 0923. ✨ feat: support email verification
+0247. 🎨 style: apply consistent indentation
