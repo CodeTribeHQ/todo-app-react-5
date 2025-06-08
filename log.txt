@@ -981,3 +981,4 @@
 0003. ✅ test: increase coverage on auth module
 0923. ✨ feat: support email verification
 0247. 🎨 style: apply consistent indentation
+0629. 🔧 refactor: organize models into subfolders
