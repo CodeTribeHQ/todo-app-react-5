@@ -979,3 +979,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0640. ♻️ chore: bump dependencies
 0500. ✅ test: add integration test for /submit endpoint
+0909. 🔧 refactor: organize models into subfolders
