@@ -982,3 +982,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0586. 🎨 style: remove trailing whitespace
 0387. ✨ feat: enable dark mode toggle
+0607. 🐛 fix: prevent crash on empty input
