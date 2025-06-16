@@ -983,3 +983,4 @@
 0247. 🎨 style: apply consistent indentation
 0629. 🔧 refactor: organize models into subfolders
 0553. 🐛 fix: correct typo in registration form
+0473. 📚 docs: write FAQ section
