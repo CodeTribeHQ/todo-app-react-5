@@ -985,3 +985,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0103. 🔧 refactor: remove redundant code blocks
 0811. 🎨 style: reformat files with black
+0336. ✨ feat: add export to CSV option
