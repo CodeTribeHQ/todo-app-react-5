@@ -990,3 +990,4 @@
 0974. ✨ feat: add export to CSV option
 0163. ✨ feat: implement quiz timer feature
 0300. ✨ feat: add export to CSV option
+0913. 🚀 perf: optimize database query for quiz results
