@@ -994,3 +994,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0715. ✨ feat: create admin dashboard
 0927. ♻️ chore: bump dependencies
+0612. ✅ test: test user registration edge cases
