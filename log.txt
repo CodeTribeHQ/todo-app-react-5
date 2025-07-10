@@ -996,3 +996,4 @@
 0927. ♻️ chore: bump dependencies
 0612. ✅ test: test user registration edge cases
 0402. 🎨 style: reformat files with black
+0033. 🎨 style: apply consistent indentation
