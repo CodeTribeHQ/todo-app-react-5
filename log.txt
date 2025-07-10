@@ -995,3 +995,4 @@
 0715. ✨ feat: create admin dashboard
 0927. ♻️ chore: bump dependencies
 0612. ✅ test: test user registration edge cases
+0402. 🎨 style: reformat files with black
