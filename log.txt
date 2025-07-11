@@ -994,3 +994,4 @@
 0311. 🎨 style: apply consistent indentation
 0713. 🐛 fix: handle 500 error in quiz API
 0716. ✨ feat: implement quiz timer feature
+0696. 🔧 refactor: clean up auth middleware
